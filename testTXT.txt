@@ -1,1 +1,1 @@
-this is a test TXT of leon.
+this is a test TXT of leon. merge branch in new mode.
